@@ -7,7 +7,7 @@ subtitle: <a href='https://ims.shanghaitech.edu.cn'>Institute of Mathematical Sc
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 #  more_info: >
 
 
