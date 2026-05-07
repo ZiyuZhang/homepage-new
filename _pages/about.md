@@ -6,10 +6,10 @@ subtitle: <a href='https://ims.shanghaitech.edu.cn'>Institute of Mathematical Sc
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>zhangziyu at shanghaitech dot edu dot cn</p>
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
+#  more_info: >
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
