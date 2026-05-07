@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: SCA S516</p>
-    <p>Email: zhangziyu at shanghaitech dot edu dot cn</p>
+    <p>zhangziyu at shanghaitech dot edu dot cn</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,3 +26,5 @@ latest_posts:
 ---
 
 I am an associate professor at the Institute of Mathematical Sciences at ShanghaiTech University. My primary research interest is algebraic geometry, focusing on the interaction between moduli spaces of sheaves and holomorphic symplectic manifolds. 
+
+If you are on campus, you can find me in Office S516 at the School of Creativity and Arts. More contact information can be found on my [official profile](https://ims.shanghaitech.edu.cn/2019/0912/c4741a44733/page.htm). 
