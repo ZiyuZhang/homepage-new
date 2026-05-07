@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an associate professor at the Institute of Mathematical Sciences at ShanghaiTech University. My primary research interest is algebraic geometry, focusing on the interaction between moduli spaces of sheaves and holomorphic symplectic manifolds. 
+I am an associate professor at the Institute of Mathematical Sciences at ShanghaiTech University. My primary research interests lie in algebraic geometry, with a focus on the interaction between moduli spaces of sheaves & holomorphic symplectic manifolds.
 
-If you are on campus, you can find me in Office S516 at the School of Creativity and Arts. More contact information can be found on my [official profile](https://ims.shanghaitech.edu.cn/2019/0912/c4741a44733/page.htm). 
+If you are on campus, you can find me in Office S516 at the School of Creativity & Arts. Additional contact information is available on my [official university profile](https://ims.shanghaitech.edu.cn/2019/0912/c4741a44733/page.htm).
